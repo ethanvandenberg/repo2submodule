@@ -1,0 +1,9 @@
+[submodule "manifest"]
+	path = manifest
+	url = git://android.git.kernel.org/tools/manifest.git
+[submodule "repo"]
+	path = repo
+	url = git://android.git.kernel.org/tools/repo.git
+[submodule "git"]
+	path = git
+	url = git://git.kernel.org/pub/scm/git/git.git
